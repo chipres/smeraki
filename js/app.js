@@ -1,6 +1,6 @@
 //a
 var url = window.location.href;
-var swLocation = '/smeraki/sw.js';
+var swLocation = '/suenosmeraki/sw.js';
 
 
 if ( navigator.serviceWorker ) {
